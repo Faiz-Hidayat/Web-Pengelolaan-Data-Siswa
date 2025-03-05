@@ -6,7 +6,7 @@ Sistem Pengelolaan Data Siswa adalah aplikasi berbasis web yang dirancang untuk 
 
 ## ✨ Demo
 
-Aplikasi demo dapat diakses di: [sistem-pengelolaan-data-siswa.wuaze.com](https://sistem-pengelolaan-data-siswa.wuaze.com)
+Aplikasi demo dapat diakses di: [sistem-pengelolaan-data-siswa.wuaze.com](http://sistem-pengelolaan-data-siswa.wuaze.com)
 
 ## 🚀 Fitur
 
