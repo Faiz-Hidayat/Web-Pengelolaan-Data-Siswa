@@ -90,7 +90,7 @@ Aplikasi demo dapat diakses di: [sistem-pengelolaan-data-siswa.wuaze.com](http:/
 
 ## 👨‍💻 Kontributor
 
-Dikembangkan oleh [Nama Anda](https://github.com/username)
+Dikembangkan oleh [Muhammad Faiz Hidayat](https://github.com/faiz-hidayat)
 
 ## 📄 Lisensi
 
